@@ -1,0 +1,79 @@
+
+@font-face {
+    font-family: 'segoe-ui';
+    src: url('segoeui.ttf');
+    }
+@font-face {
+    font-family: 'segoe-uil';
+     src: url('segoeuil.ttf');
+     } 
+     
+@font-face {
+    font-family: 'segoe-uib';
+    src: url('segoeuib.ttf');
+     }  
+
+
+
+
+.menu2
+{
+    display: flex;
+}
+.menu2 .navbar2
+{
+    width: 100%;
+    max-width: 100%;
+
+}
+
+
+.menu2 .logo2
+{
+    text-transform: uppercase;
+    padding-top: 40px;
+    font-family: 'segoe-uil';
+    color: black;
+}
+
+.menu2 .navbar2
+{
+padding-left: 37.5% 
+}
+
+.menu2 .navmenu2
+{
+list-style: none;
+padding-top: 35px;
+text-transform: uppercase;  
+display: flex;
+justify-content: flex-end;
+}
+
+/*.menu2 .navmenu2 .contenunav2
+{
+    padding: 0; 
+    margin: 0;
+}*/
+
+
+.menu2 .navmenu2 .contenunav2
+{
+margin-right: 45px;
+font-family: 'segoe-uib';
+color: black;
+font-size: 12px;
+font-style: bold;
+}
+
+.menu2 .navmenu2 .contenunav2 span
+{
+    border-width:2px;
+    border-style:solid;
+    border-color: #4BCAFF;
+    padding: 6px;
+    padding-left: 15px;
+    padding-right: 15px;
+
+} 
+
